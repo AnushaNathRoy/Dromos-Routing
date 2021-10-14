@@ -1,7 +1,7 @@
 # Routing
 # ReadMe
 
-![alt text](https://github.com/AnushaNathRoy/Routing/blob/master/readme_images/img.svg)
+![alt text](https://github.com/AnushaNathRoy/Dromos-Routing/blob/master/readme_images/img.svg)
 <br>
 We have implemented **User Friendly Routing Program.
 
@@ -19,7 +19,7 @@ Added to all this we have also kept password protection for the admin window, i.
 
 <br>
 
-![alt text](https://github.com/AnushaNathRoy/Routing/blob/master/readme_images/img2.svg)
+![alt text](https://github.com/AnushaNathRoy/Dromos-Routing/blob/master/readme_images/img2.svg)
 
 # Installation:
 
@@ -33,7 +33,7 @@ Alternatively download the zip folder.
 
 <br>
 
-![alt text](https://github.com/AnushaNathRoy/Routing/blob/master/readme_images/img1.svg)
+![alt text](https://github.com/AnushaNathRoy/Dromos-Routing/blob/master/readme_images/img1.svg)
 
 Firstly user has to download and put all of the following files in the same folder otherwise code will not work fine as in code we are calling various files so those all files should be present at the same place. Files are:
 
